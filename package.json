@@ -1,0 +1,29 @@
+{
+  "name": "Doe",
+  "version": "1.0.0",
+  "description": "Doe é um projeto desenvolvido durante a MaratonaDev 3.0 da Rocketseat. Tem como intuito ser um centro de doação de sangue.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djonibourscheid/Doe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djonibourscheid/Doe/issues"
+  },
+  "homepage": "https://github.com/djonibourscheid/Doe#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1",
+    "pg": "^8.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
