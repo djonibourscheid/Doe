@@ -30,12 +30,13 @@ Após o comando acima executar:
   * [PostgreSQL](www.postgresql.org/download)
   * [PostBird](www.electronjs.org/apps/postbird)
 
-Após criar sua conta no PostgreSQL vá até o arquivo `server.js` e altere os parâmetros da variável `db`
-
-<img src=".github/images/bancoDeDados.png">
-
-1. Entre no PostBird, crie uma database com nome `doe`;
-2. Crie uma tabela com nome `donors`;
-3. Selecione a tabela `donors`, vá em `Structure` e deixe igual como a seguir:
+1. Crie sua conta no PostgreSQL;
+2. Entre no PostBird, crie uma *database* com nome `doe`;
+3. Crie uma tabela com nome `donors`;
+4. Selecione a tabela `donors`, vá em `Structure` e deixe igual como a seguir:
 
 <img src=".github/images/modeloTabela.png">
+
+Vá até o arquivo `server.js` e altere os parâmetros da variável `db`
+
+<img src=".github/images/bancoDeDados.png">
