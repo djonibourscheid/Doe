@@ -18,7 +18,7 @@ const db = new Pool({
     password: '', // senha que você criou no aplicativo do Postgres
     host: '',
     port: ,
-    database: ''
+    database: ''  // database que você criou no PostBird
 })
 
 
