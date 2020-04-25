@@ -17,7 +17,7 @@ Doe é um projeto desenvolvido durante a MaratonaDev 3.0 da Rocketseat. Tem como
 
 > * `npm install`
 
-Após o comando acima executar:
+Após o comando acima, executar:
 *(executar apenas um dos comandos abaixo)*
 
 > * `npm start` **→** para abrir **sem** o nodemon
